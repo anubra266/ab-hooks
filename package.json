@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/anubra266/ab-hooks/issues"
   },
-  "homepage": "https://github.com/anubra266/ab-hooks#readme"
+  "homepage": "https://github.com/anubra266/ab-hooks#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
 }
