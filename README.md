@@ -59,7 +59,8 @@
     <br/>
 - [**Dates**]()
   - [`useAntDate`]() &mdash; Convert  a date to [Ant-Design](https://ant.design) Format. 
-  - [`useEffectOnce`]() &mdash; Convert [Ant-Design](https://ant.design) Date to MySQL Database Format. 
+  - [`useDbDate`]() &mdash; Convert [Ant-Design](https://ant.design) Date to MySQL Database Format. 
+  - [`useHumanDate`]() &mdash; Convert Date to Human friendly format. 
     <br/>
     <br/>
 - [**Url**]()
