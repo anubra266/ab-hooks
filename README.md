@@ -36,8 +36,8 @@
 </div>
 
 - [**Strings**]()
-  - [`useFCap`]() &mdash;. Capitalize first Character in a string.
-  - [`usePlural`]() &mdash;. Pluralize a String.
+  - [`useFCap`]() &mdash; Capitalize first Character in a string.
+  - [`usePlural`]() &mdash; Pluralize a String.
     <br/>
     <br/>
 - [**App**]()
@@ -60,7 +60,6 @@
 - [**Dates**]()
   - [`useAntDate`]() &mdash; Convert  a date to [Ant-Design](https://ant.design) Format. 
   - [`useEffectOnce`]() &mdash; Convert [Ant-Design](https://ant.design) Date to MySQL Database Format. 
-  - [`useEffectOnce`]() &mdash;. 
     <br/>
     <br/>
 - [**Url**]()
