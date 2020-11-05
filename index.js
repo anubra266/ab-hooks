@@ -12,5 +12,4 @@ export {
 } from "./lib/app";
 export { useAsort, useShuffle } from "./lib/array";
 export { useAntDate, useDbDate, useHumanDate } from "./lib/datez";
-export { useFlashMessage } from "./lib/FlashMessage";
 export { useUrlQuery } from "./lib/url";
