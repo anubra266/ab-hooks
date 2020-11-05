@@ -6,6 +6,7 @@
   "directories": {
     "lib": "lib"
   },
+  "types": "./types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
   },
