@@ -14,7 +14,7 @@
        <img src="https://img.shields.io/npm/v/ab-hooks.svg" alt="npm package" />
     </a>
     <a href="https://www.npmjs.com/package/ab-hooks">
-      <img src="https://img.shields.io/npm/dm/ab-hooks.svg" alt="npm downloads" />
+      <img src="https://img.shields.io/npm/dw/ab-hooks.svg" alt="npm downloads" />
     </a>
     <!-- <a href="http://anubra266.github.io/ab-hooks">
       <img src="https://img.shields.io/badge/demos-🚀-yellow.svg" alt="demos" />
