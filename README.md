@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/demos-🚀-yellow.svg" alt="demos" />
     </a> -->
     <br />
-    Collection of my essential <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>.</em>
+    Collection of my frequently used <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>.</em>
     
   </sup>
   <br />
